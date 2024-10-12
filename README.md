@@ -6,8 +6,8 @@
 - 📍 My favourite project, was an application that helped students study.  It was made with a friend where users could create study sets, where terms were inputted and linked to definitions or answers.
   Then tools, such as tests, and flashcards could be used.  We worked with **GUIS** and **File io**.
 - 👀 I’m interested in making all sorts of applications!
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on **backend** or **games** or anything inbetween!
 - 📫 You can reach me at rileywongwong@gmail.com
 - ⚡ Fun fact: ...
 
