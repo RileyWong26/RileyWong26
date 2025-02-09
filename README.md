@@ -1,17 +1,39 @@
 
-# Hi, I'm Riley
-- 👋 Hi, I’m Riley Wong,
-  
-  A beginner data scientist!  I have been programming for about 4 years, and done various projects in **java,** **python,** **javascript**, **C** and html css.
-  I love to work on all sorts of different projects, and love expanding my knowledge.  I am also interested in game developpement!
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+<h1 align="center">Hi I'm Riley</h1>
 
-- 📍 My favourite project, was creating a deep learning model for London called the LTC big data project.  Where a deep learning model was made to accurately predict the delay on bus arrival times.  It is my favorite project, as it taught me a lot about machine learning, and allowed me to both impact the community and be able to see the impact I caused.
-- 👀 I’m interested in learning more about **machine learning** and **AI**, and learning more frameworks and languages!
-- 🌱 I’m currently learning machine learning, AI, REACT and C
-- 💞️ I’m looking to collaborate on **machine learning** projects!
-- 📫 You can reach me at rileywongwong@gmail.com
-- ⚡ Fun fact: I like playing the guitar 🎸
+<h1>About Me</h1>
 
+  I am a beginner data scientist, first year computer science student at Western University, passionate about creating, developping and exploring the realms of machine learning, and coding.  As well as building applications.  
+
+<h2>🔨What I'm up to</h2>
+
+* Exploring machine learning
+* Building web applications
+* Learning C
+
+
+<h2>📧Contact Me</h2>
+
+[![Linked In](https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-100.png "Linked In")](https://www.linkedin.com/in/riley-wong-1051b2250/)
+
+📧: rileywongwong@gmail.com
+
+<h1>🖥️Tech Stack</h1>
+<span>Languages: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" height=30px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" height=30px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" height=30px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" height=30px/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=30px />
+ </span>
+          
+<span>Frameworks:<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height=30px /></span>
+
+<span>Tools:<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" height=30px/>
+  <img src="https://it.wustl.edu/app/uploads/2023/04/Jira-Card-Header-2.png" height= 30px/>
+       
+</span>
+          
 <!---
 RileyWong26/RileyWong26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
