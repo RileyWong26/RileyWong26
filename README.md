@@ -5,7 +5,7 @@
 
 - 📍 My favourite project, was creating a deep learning model for London called the LTC big data project.  Where a deep learning model was made to accurately predict the delay on bus arrival times.  It is my favorite project, as it taught me a lot about machine learning, and allowed me to both impact the community and be able to see the impact I caused.
 - 👀 I’m interested in learning more about **machine learning** and **AI**, and learning more frameworks and languages!
-- 🌱 I’m currently learning machine learning and AI, REACT and C
+- 🌱 I’m currently learning machine learning, AI, REACT and C
 - 💞️ I’m looking to collaborate on **machine learning** projects!
 - 📫 You can reach me at rileywongwong@gmail.com
 - ⚡ Fun fact: I like playing the guitar 🎸
