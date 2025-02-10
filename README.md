@@ -9,9 +9,9 @@
 
 <h2>🔨What I'm up to</h2>
 
-* Exploring machine learning
-* Building web applications
-* Learning C
+* 🤖Exploring machine learning
+* 🔨Building web applications
+* 📓Learning C
 
 
 <h2>📧Contact Me</h2>
