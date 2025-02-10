@@ -1,7 +1,7 @@
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
-<h1 align="center">Hi I'm Riley</h1>
+<h1 align="center">Hi :wave: I'm Riley</h1>
 
 <h1>About Me</h1>
 
