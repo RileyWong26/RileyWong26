@@ -1,7 +1,7 @@
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
-<h1 align="center">Hi :wave: I'm Riley</h1>
+<h1 align="center">Hi, :wave: I'm Riley</h1>
 
 <h1>About Me</h1>
 
@@ -16,7 +16,7 @@
 
 <h2>📧Contact Me</h2>
 
-[![Linked In](https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-100.png "Linked In")](https://www.linkedin.com/in/riley-wong-1051b2250/)
+[![Linked In](https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-30.png "Linked In")](https://www.linkedin.com/in/riley-wong-1051b2250/)
 
 📧: rileywongwong@gmail.com
 
