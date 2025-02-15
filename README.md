@@ -11,7 +11,7 @@
 
 * 🤖Exploring machine learning
 * 🔨Building web applications
-* 📓Learning C and REACT
+  
 
 
 <h2>📧Contact Me</h2>
