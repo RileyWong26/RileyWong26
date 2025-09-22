@@ -5,7 +5,7 @@
 
 <h1>About Me</h1>
 
-  I am a beginner data scientist, first year computer science student at Western University, passionate about creating, developping and exploring the realms of machine learning, and coding.  As well as building applications.  
+  I am a software developer, second year computer science student at Western University, passionate about creating, developping and exploring the realms of machine learning, and coding.  As well as building applications.  
 
 <h2>🔨What I'm up to</h2>
 
