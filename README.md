@@ -15,9 +15,11 @@
 
 
 <h2>📧Contact Me</h2>
-I am always looking to contribute to new projects and connect with other people!  Feel free to contact me:
+I am always looking to contribute to new projects and connect with other people!  <br/> <br/>
+Connect with me :
+<br/> <br/> 
 
-[![Linked In](https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-30.png "Linked In")](https://www.linkedin.com/in/riley-wong-1051b2250/)
+[![Linked In](https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-30.png "Linked In")](https://www.linkedin.com/in/riley-wong-1051b2250/) <a target="_blank" href="https://www.linkedin.com/in/riley-wong-1051b2250/">LinkedIn</a>
 
 📧: rileywongwong@gmail.com
 
