@@ -5,7 +5,7 @@
 
 <h1>About Me</h1>
 
-  I am a software developer, second year computer science student at Western University, passionate about creating, developping and exploring the realms of machine learning, and coding.  As well as building applications.  
+  I am a software developer, second year computer science student at Western University, passionate about creating, developping and exploring the realms of machine learning, and coding.  Furthermore I am always learning new technologies, techniques and strategies to create more robust and accessible softwares.  
 
 <h2>🔨What I'm up to</h2>
 
@@ -15,6 +15,7 @@
 
 
 <h2>📧Contact Me</h2>
+I am always looking to contribute to new projects and connect with other people!  Feel free to contact me:
 
 [![Linked In](https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-30.png "Linked In")](https://www.linkedin.com/in/riley-wong-1051b2250/)
 
