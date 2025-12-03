@@ -24,7 +24,10 @@ Connect with me :
 📧: rileywongwong@gmail.com
 
 <h1>🖥️Tech Stack</h1>
-<span>Languages: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" height=30px/><img src="Java.png" height=30px/>
+<span>
+          Languages: 
+          <img src="/icons/Python.png" height=30px/>
+          <img src="/icons/Java.png" height=30px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" height=30px/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" height=30px/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=30px />
