@@ -46,9 +46,10 @@ Connect with me :
           
 </span>
 
-<span>Tools:<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" height=30px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" height=30px />
-          
+<span>Tools:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" height=30px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" height=30px />
+<img src="/icons/Docker.png" height=30px />
           
        
 </span>
