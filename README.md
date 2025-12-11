@@ -5,7 +5,7 @@
 
 <h1>About Me</h1>
 
-  I am a software developer, second year computer science student at Western University, passionate about creating, developping and exploring the realms of machine learning, and coding.  Furthermore I am always learning new technologies, techniques and strategies to create more robust and accessible softwares.  
+  I am a software developer, second year computer science student at Western University, passionate about building, developping and exploring the realms of machine learning and engineereing.  Furthermore I am always learning new technologies, techniques and strategies to create more robust and accessible softwares.  
 
 <h2>🔨What I'm up to</h2>
 
@@ -28,7 +28,7 @@ Connect with me :
           Languages: 
           <img src="/icons/Python.png" height=30px/>
           <img src="/icons/Java.png" height=30px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" height=30px/>
+          <img src="/icons/HTML.png" height=30px/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" height=30px/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=30px />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height=30px />
