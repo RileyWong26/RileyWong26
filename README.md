@@ -19,9 +19,15 @@ I am always looking to contribute to new projects and connect with other people!
 Connect with me :
 <br/> <br/> 
 
-[![Linked In](https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-30.png "Linked In")](https://www.linkedin.com/in/riley-wong-1051b2250/) <a target="_blank" href="https://www.linkedin.com/in/riley-wong-1051b2250/">LinkedIn</a>
+<a target="_blank" href="https://www.linkedin.com/in/riley-wong-1051b2250/">
+          <img src="/icons/LinkedIn.png" height=25px/>
+</a>
+<br>
 
-📧: rileywongwong@gmail.com
+<a target="_blank" href="mailto:rileywongwong@gmail.com">
+          <img src="/icons/Mail.png" height=25px/> 
+</a>
+: rileywongwong@gmail.com
 
 <h1>🖥️Tech Stack</h1>
 <span>
