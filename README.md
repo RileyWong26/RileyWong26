@@ -30,35 +30,18 @@ Connect with me :
 : rileywongwong@gmail.com
 
 <h1>🖥️Tech Stack</h1>
-<span>
-          Languages: 
-          <img src="/icons/Python.png" height=30px/>
-          <img src="/icons/Java.png" height=30px/>
-          <img src="/icons/HTML.png" height=30px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" height=30px/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=30px />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height=30px />
-          
-
- </span>
-          
-<span>Libraries/Frameworks:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height=30px />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" height=30px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" height=30px />
-<img src="/icons/Next.png" height=30px />
-<img src="/icons/Django.png" height=30px />
-<img src="/icons/AWS.png" height=30px />
-          
-</span>
-
-<span>Tools:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" height=30px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" height=30px />
-<img src="/icons/Docker.png" height=30px />
-          
-       
-</span>
+<p align="center">
+          <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,ts,java,python,postgres,c"/>
+</p>
+<p align="center">
+          <img src="https://skillicons.dev/icons?i=aws,docker,dynamodb,supabase,mongodb&perline=10"/>
+</p>
+<p align="center">
+          <img src="https://skillicons.dev/icons?i=react,vite,nodejs,npm,threejs,tensorflow,pytorch,fastapi,nextjs&perline=10"/>
+</p>
+<p align="center">
+          <img src="https://skillicons.dev/icons?i=github,git,postman,linux,vscode&perline=10"/>
+</p>
           
 <!---
 RileyWong26/RileyWong26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
