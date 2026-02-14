@@ -39,7 +39,7 @@ Connect with me :
           <img src="https://skillicons.dev/icons?i=react,vite,nodejs,npm,threejs,tensorflow,pytorch,fastapi,nextjs&perline=10"/>
 </p>
 <p align="center">
-          <img src="https://skillicons.dev/icons?i=github,git,postman,linux,vscode&perline=10"/>
+          <img src="https://skillicons.dev/icons?i=github,git,postman,linux,vscode,figma&perline=10"/>
 </p>
           
 <!---
