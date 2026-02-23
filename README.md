@@ -33,7 +33,7 @@ Connect with me :
           <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,ts,java,python,postgres,c"/>
 </p>
 <p align="center">
-          <img src="https://skillicons.dev/icons?i=aws,docker,dynamodb,supabase,mongodb&perline=10"/>
+          <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,dynamodb,supabase,mongodb&perline=10"/>
 </p>
 <p align="center">
           <img src="https://skillicons.dev/icons?i=react,vite,nodejs,npm,threejs,tensorflow,pytorch,fastapi,nextjs&perline=10"/>
