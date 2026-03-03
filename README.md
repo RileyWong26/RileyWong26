@@ -30,7 +30,7 @@ Connect with me :
 
 <h1>🖥️Tech Stack</h1>
 <p align="center">
-          <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,ts,java,python,postgres,c"/>
+          <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,ts,java,python,postgres,c,rust"/>
 </p>
 <p align="center">
           <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,dynamodb,supabase,mongodb&perline=10"/>
